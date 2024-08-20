@@ -1,0 +1,17 @@
+body {
+  background-color: blueviolet;
+}
+
+ul {
+  margin-top: 10px;
+  color: #272424;
+  text-align: left;
+}
+
+li {
+  margin-top: 10px;
+}
+
+li::marker {
+  color: rgb(255, 0, 0);
+}
